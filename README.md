@@ -93,7 +93,7 @@ pip install pyodbc
 ## 支持与反馈
 
 如有问题或建议，请在 GitHub 仓库提交 Issue：  
-https://github.com/MUxiaokalami/mudaka
+https://github.com/MUxiaokalami/astrbot_plugin_draw_checkin
 
 ## 许可证
 
